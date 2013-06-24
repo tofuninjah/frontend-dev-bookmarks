@@ -1,6 +1,6 @@
 # Frontend Development
 
-+ Guides
++ Guides 
     + [Hack Design](http://hackdesign.org/courses/)
     + [Designer School](http://designer-school.com/)
     + [TheExpressiveWeb](http://beta.theexpressiveweb.com/)
@@ -392,6 +392,7 @@
         + [Roole](http://roole.org/) is a language that compiles to CSS.
         + [Stylus](http://learnboost.github.io/stylus/): Expressive, dynamic, robust CSS
 + Animation
++[Greensock](http://http://www.greensock.com/gsap-js/) GSAP: Professional-Grade HTML5 Animation
     + [Stylie](http://jeremyckahn.github.com/stylie/)
     + [animate.less](https://github.com/machito/animate.less), is a bunch of cool, fun, and cross-browser animations converted into LESS for you to use in your Bootstrap projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Canvas Advanced Animation Toolkit](http://hyperandroid.github.com/CAAT/) is an scene graph director-based animation framework for javascript based in the concept of a timeline.
@@ -415,6 +416,7 @@
     + [animate.css](http://daneden.me/animate/) is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
     + [Approach](http://srobbin.com/jquery-plugins/approach/)
 	+ [Magic](https://github.com/miniMAC/magic) is a CSS3 framework with many animations, it's simple to use and many animations are cross-browser compatible.
++
 + Widgets
     + Kits
         + [AlloyUI](http://liferay.github.com/alloyui.com/)
